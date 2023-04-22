@@ -1,1 +1,1 @@
-# BERT
+# BERT(Bidirectional Encoder Reprensentation Transformer)
